@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nihal Singh Rana</h1>
-<h3 align="center">A Passionate Full Stack Java Developer from India 🇮🇳</h3>
+<h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
 
 ---
 
