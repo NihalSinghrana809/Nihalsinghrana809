@@ -9,7 +9,7 @@
 <!-- Animated Typing Text -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=white&center=true&vCenter=true&width=700&height=100&lines=Hello+Connections%2C+I'm+Nihal+Singh+Rana;Backend+Engineer;Web3+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=white&center=true&vCenter=true&width=700&height=100&lines=Hello+Connections%2C+I'm+Nihal+Singh+Rana;Backend+Engineer;Android+Developer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -38,32 +38,41 @@ I’m a Backend Developer passionate about building fast, scalable, and SEO-frie
   <!-- Systems Programming & Core Languages -->
   <h3>⚡ Systems Programming & Core Languages</h3>
   <table>
-    <tr>
-      <td align="center" style="padding:10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60" />
-        <br>C
-      </td>
-      <td align="center" style="padding:10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60" />
-        <br>C++
-      </td>
-      <td align="center" style="padding:10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60" />
-        <br>Python
-      </td>
-      <td align="center" style="padding:10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" />
-        <br>JavaScript
-      </td>
-      <td align="center" style="padding:10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" width="60" height="60" />
-        <br>Rust
-      </td>
-      <td align="center" style="padding:10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Golang" width="60" height="60" />
-        <br>Golang
-      </td>
-    </tr>
+<tr>
+  <td align="center" style="padding:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60" />
+    <br>C
+  </td>
+  <td align="center" style="padding:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60" />
+    <br>C++
+  </td>
+  <td align="center" style="padding:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60" />
+    <br>Python
+  </td>
+  <td align="center" style="padding:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" />
+    <br>JavaScript
+  </td>
+  <td align="center" style="padding:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" width="60" height="60" />
+    <br>Rust
+  </td>
+  <td align="center" style="padding:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Golang" width="60" height="60" />
+    <br>Golang
+  </td>
+  <td align="center" style="padding:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60" />
+    <br>Java
+  </td>
+  <td align="center" style="padding:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="60" height="60" />
+    <br>Kotlin
+  </td>
+</tr>
+
   </table>
 
   <br/>
