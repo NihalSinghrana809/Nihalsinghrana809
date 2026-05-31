@@ -112,7 +112,7 @@ I’m a Backend Developer passionate about building fast, scalable, and SEO-frie
         <br>Fastify
       </td>
       <td align="center" style="padding:10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="60" height="60" />
+        <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="60" height="60" />
         <br>NestJS
       </td>
       <td align="center" style="padding:10px;">
