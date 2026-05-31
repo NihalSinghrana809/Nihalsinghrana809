@@ -60,10 +60,6 @@ I’m a Backend Developer passionate about building fast, scalable, and SEO-frie
     <br>Rust
   </td>
   <td align="center" style="padding:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Golang" width="60" height="60" />
-    <br>Golang
-  </td>
-  <td align="center" style="padding:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60" />
     <br>Java
   </td>
@@ -97,6 +93,10 @@ I’m a Backend Developer passionate about building fast, scalable, and SEO-frie
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="60" height="60" />
         <br>React.js
       </td>
+      <td align="center" style="padding:10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="60" height="60" />
+        <br>Next.js
+    </td>
     </tr>
     <tr>
       <td align="center" style="padding:10px;">
@@ -108,12 +108,12 @@ I’m a Backend Developer passionate about building fast, scalable, and SEO-frie
         <br>Express.js
       </td>
       <td align="center" style="padding:10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="60" height="60" />
-        <br>Django
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" alt="Fastify" width="60" height="60" />
+        <br>Fastify
       </td>
       <td align="center" style="padding:10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="60" height="60" />
-        <br>Flask
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60" />
+        <br>Node.js
       </td>
     </tr>
   </table>
