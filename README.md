@@ -112,8 +112,12 @@ I’m a Backend Developer passionate about building fast, scalable, and SEO-frie
         <br>Fastify
       </td>
       <td align="center" style="padding:10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60" />
-        <br>Node.js
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="60" height="60" />
+        <br>NestJS
+      </td>
+      <td align="center" style="padding:10px;">
+        <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="60" height="60" />
+        <br>FastAPI
       </td>
     </tr>
   </table>
