@@ -24,7 +24,7 @@ I’m a Backend Developer passionate about building fast, scalable, and SEO-frie
 - 🛠️ **Engineering Focus:** Building secure web applications.
 - 💻 **Systems Programming:** Intermediate knowledge in memory management, process control, and optimization.
 - 🎯 **Research Areas:** Fintech and Data Science.
-- 🔐 **Top Skill:** Full-stack development using Next.js with secure API integrations.
+- 🔐 **Top Skill:** Full-stack development using PERN with secure API integrations.
 
 <!-- Animated line -->
 <div align="center">
