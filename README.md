@@ -56,10 +56,6 @@ I’m a Backend Developer passionate about building fast, scalable, and SEO-frie
     <br>JavaScript
   </td>
   <td align="center" style="padding:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" width="60" height="60" />
-    <br>Rust
-  </td>
-  <td align="center" style="padding:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60" />
     <br>Java
   </td>
@@ -92,11 +88,6 @@ I’m a Backend Developer passionate about building fast, scalable, and SEO-frie
       <td align="center" style="padding:10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="60" height="60" />
         <br>React.js
-      </td>
-      <td align="center" style="padding:10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="60" height="60" />
-        <br>Next.js
-    </td>
     </tr>
     <tr>
       <td align="center" style="padding:10px;">
@@ -106,18 +97,6 @@ I’m a Backend Developer passionate about building fast, scalable, and SEO-frie
       <td align="center" style="padding:10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="90" height="30" />
         <br>Express.js
-      </td>
-      <td align="center" style="padding:10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" alt="Fastify" width="60" height="60" />
-        <br>Fastify
-      </td>
-      <td align="center" style="padding:10px;">
-        <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="60" height="60" />
-        <br>NestJS
-      </td>
-      <td align="center" style="padding:10px;">
-        <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="60" height="60" />
-        <br>FastAPI
       </td>
     </tr>
   </table>
@@ -137,16 +116,8 @@ I’m a Backend Developer passionate about building fast, scalable, and SEO-frie
         <br>PostgreSQL
       </td>
       <td align="center" style="padding:10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite3" width="60" height="60" />
-        <br>SQLite3
-      </td>
-      <td align="center" style="padding:10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60" />
         <br>MongoDB
-      </td>
-      <td align="center" style="padding:10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="60" height="60" />
-        <br>Firebase
       </td>
     </tr>
   </table>
