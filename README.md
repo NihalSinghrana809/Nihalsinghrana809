@@ -85,11 +85,11 @@ I’m a Backend Developer passionate about building fast, scalable, and SEO-frie
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="60" height="60" />
         <br>TailwindCSS
       </td>
+    </tr>
+    <tr>
       <td align="center" style="padding:10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="60" height="60" />
         <br>React.js
-    </tr>
-    <tr>
       <td align="center" style="padding:10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60" />
         <br>Node.js
